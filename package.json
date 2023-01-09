@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/anton-karlovskiy/giffleball#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3"
+    "@11ty/eleventy": "^1.0.2"
   },
   "dependencies": {
     "file-size": "^1.0.0"
